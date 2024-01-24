@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shahid Ali Khan</h1>
-<h3 align="center">A passionate Mobile Application Developer and Data Science </h3>
+<h3 align="center">A passionate Machine Learning Engineer and Data Scientist </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -16,9 +16,9 @@
 
 <p align="left"> <a href="https://twitter.com/shahid ali" target="blank"><img src="https://img.shields.io/twitter/follow/shahid ali?logo=twitter&style=for-the-badge" alt="shahid ali" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter |Data Science |React Native**
+- 🌱 I’m currently learning **|Deep Learning | NLP |**
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **Data Science Machine Learning Deep Learning and NLP**
 
 - 📫 How to reach me **shahidali33106@gmail.com**
 
